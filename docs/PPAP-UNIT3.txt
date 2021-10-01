@@ -1,0 +1,12 @@
+Assignment 1
+Dokumentasikan aturan utama permainan sederhana yang Anda sukai. Sertakan sketsa antarmuka pengguna; daftar semua tombol dan item menu; dan daftar mode lain yang mungkin tersedia. Jelaskan tantangan dan tindakan yang membuat game menarik bagi Anda.
+
+Assignment 2
+Mainkan: http://www.unity3dgames.eu/after-sunset-2.html
+Diskusikan tujuan dan sasaran game ini. Genre apa yang akan Anda klasifikasikan game ini dan mengapa? Jelaskan mekanika permainannya. Seberapa intuitif (mudah) apakah untuk menavigasi permainan? Jelaskan aturan konstitutif dan aturan intuitif.
+Apa motivasi pemainnya? Bagaimana tantangannya dibandingkan dengan risiko dan penghargaan? Jelaskan mengapa menurut Anda ini atau bukan permainan yang seimbang.
+
+Assigment 3
+Genre tertentu ditemukan lebih sering dibuat menggunakan satu jenis lingkungan (yaitu top down 2 atau 3D ground-up) dari yang lain. Tuliskan makalah singkat yang menjelaskan lingkungan permainan mana masing-masing genre yang paling sesuai dan mengapa. Coba jawab pertanyaan berikut: bagaimana fitur lingkungan (misalnya, gaya grafis, mekanik, kontrol pemutar) dan cara penggunaannya memudahkan atau menghalangi gameplay di setiap genre?
+
+
